@@ -1,7 +1,7 @@
 ATUALIZE SEU SISTEMA OPERACIONAL
 
 ```bash
-apt update && apt upgrade
+sudo apt update && apt upgrade
 ```
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
