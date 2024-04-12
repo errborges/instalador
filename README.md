@@ -1,4 +1,4 @@
-ATUALIZE SEU SISTEMA OPERACIONAL
+ATUALIZAR SISTEMA OPERACIONAL UBUNTU
 
 ```bash
 sudo apt update -y && sudo apt upgrade -y
@@ -14,4 +14,3 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 ```bash
 cd ./instalador && sudo ./install_instancia
 ```
-

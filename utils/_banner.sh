@@ -21,31 +21,19 @@ print_banner() {
 
   printf "\n\n"
 
-  printf "${GREEN}";
-  printf "                                                     ▄▄█▀▀▀▀▀▀▀█▄▄  \n";
-  printf "                                                   ${GREEN}▄█▀${NC}   ${WHITE}▄▄${NC}      ${GREEN}▀█▄\n";
-  printf "                                                   ${GREEN}█${NC}    ${WHITE}███${NC}         ${GREEN}█\n";
-  printf "                                                   ${GREEN}█${NC}    ${WHITE}██▄         ${GREEN}█${NC}\n";
-  printf "                                                   ${GREEN}█${NC}     ${WHITE}▀██▄${NC} ${WHITE}██${NC}    ${GREEN}█\n";
-  printf "                                                   ${GREEN}█${NC}       ${WHITE}▀███▀${NC}    ${GREEN}█\n";
-  printf "                                                   ${GREEN}▀█▄           ▄█▀\n";
-  printf "                                                    ▄█    ▄▄▄▄█▀▀  \n";
-  printf "                                                    █  ▄█▀        \n";
-  printf "                                                    ▀▀▀▀          \n";
+printf "${CYAN_LIGHT}";
+
+printf ${CYAN_LIGHT}"    _____ _____ _   _ ___________ _____ _____  _   _   ___ _____ \n";
+printf ${CYAN_LIGHT}"   |  ___|  _  | | | |_   _| ___ \  ___/  __ \| | | | / _ \_   _| \n";
+printf ${CYAN_LIGHT}"   | |__ | | | | | | | | | | |_/ / |__ | /  \/| |_| |/ /_\ \| |  \n";
+printf ${CYAN_LIGHT}"   |  __|| | | | | | | | | |  __/|  __|| |    |  _  ||  _  || |  \n";
+printf ${CYAN_LIGHT}"   | |___\ \/' / |_| |_| |_| |   | |___| \__/\| | | || | | || |  \n";
+printf ${CYAN_LIGHT}"   \____/ \_/\_\\___/ \___/\_|   \____/ \____/\_| |_/\_| |_/\_/  \n";
+ 
+
+printf "${CYAN_LIGHT}";
+  
   printf "${NC}";
-
-  printf "\n"
-
-printf "${GREEN}";  
-printf "██╗░░░░░██░░██╗░░░░░░╗\n";
-printf "██║░██╗░██░░██║░░░░░░║\n";
-printf "██╗████╗██╔╝██║░░░░░░╚\n";
-printf "████╔═████║░██║░░░░░░░\n";
-printf "██╔╝░╚██╔╝░░███████╗░╚\n";
-printf "╚═╝░░░░░╚══════╝░░░╚═╝░░░╚═╝░░\n";
-printf "${NC}";
-  
-  
 
   printf "\n"
 }
